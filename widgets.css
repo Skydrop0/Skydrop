@@ -1,0 +1,39 @@
+/* ----------- Sidebar widget -------------*/
+
+.ngg-widget,
+.ngg-widget-slideshow {
+    overflow: hidden;
+    margin: 0pt;
+    padding: 5px 0px 0px 0pt;
+    text-align: left;
+}
+
+.ngg-widget img {
+    border: 2px solid #A9A9A9;
+    margin: 0pt 2px 2px 0px;
+    padding: 1px;
+    height: auto; /* silly, but without this the images will appear distorted with some WP themes */
+    float: left;
+}
+
+/*
+     FILE ARCHIVED ON 11:45:33 Jan 21, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:17:49 Nov 27, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.479
+  exclusion.robots: 0.016
+  exclusion.robots.policy: 0.006
+  esindex: 0.009
+  cdx.remote: 103.744
+  LoadShardBlock: 63.8 (3)
+  PetaboxLoader3.datanode: 139.253 (5)
+  load_resource: 207.793
+  PetaboxLoader3.resolve: 103.905
+  loaddict: 73.17
+*/

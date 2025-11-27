@@ -1,0 +1,102 @@
+/*
+Wordpress Popular Posts plugin stylesheet
+Developed by Hector Cabrera
+cabrerahector.com | @cabrerahector
+
+Use the following classes to style your popular posts list as you like.
+*/
+
+/* Styles the "Sorry, no data so far" message */
+.wpp-no-data {
+}
+
+/* UL - Popular Posts container styles */
+.wpp-list {
+}
+
+    /* LI - Post container styles */
+    .wpp-list li {
+        overflow: hidden;
+        float: none;
+        clear: both;
+        margin-bottom: 1rem;
+    }
+
+    .wpp-list li:last-of-type {
+        margin-bottom: 0;
+    }
+
+    /* Styles for the popular post in view */
+    .wpp-list li.current {
+    }
+
+        /* Thumbnail styles */
+        .wpp-thumbnail {
+            display: inline;
+            float: left;
+            margin: 0 1rem 0 0;
+            border: none;
+        }
+
+        /* Title styles */
+        .wpp-post-title {
+        }
+
+        /* Excerpt styles */
+        .wpp-excerpt {
+        }
+
+        /* Stats tag styles */
+        .wpp-meta, .post-stats {
+            display: block;
+            font-size: 0.8em;
+        }
+
+        .wpp-meta:empty, .post-stats:empty {
+            display: none;
+        }
+
+            /* Comments count styles */
+            .wpp-comments {
+            }
+
+            /* Views count styles */
+            .wpp-views {
+            }
+
+            /* Author styles */
+            .wpp-author {
+            }
+
+            /* Post date styles */
+            .wpp-date {
+            }
+
+            /* Post category styles */
+            .wpp-category {
+            }
+
+        /* WP-PostRatings styles */
+        .wpp-rating {
+        }
+/*
+     FILE ARCHIVED ON 11:41:26 Jan 21, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:17:51 Nov 27, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.554
+  exclusion.robots: 0.018
+  exclusion.robots.policy: 0.008
+  esindex: 0.009
+  cdx.remote: 8.423
+  LoadShardBlock: 111.682 (3)
+  PetaboxLoader3.datanode: 158.041 (5)
+  load_resource: 232.54
+  PetaboxLoader3.resolve: 168.753
+  loaddict: 33.175
+*/

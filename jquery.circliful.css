@@ -1,0 +1,41 @@
+.circliful {
+    position: relative; 
+}
+
+.circle-text, .circle-info, .circle-text-half, .circle-info-half {
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+}
+
+.circle-info, .circle-info-half {
+	color: #999;
+}
+
+.circliful .fa {
+	margin: -10px 3px 0 3px;
+	position: relative;
+	bottom: 4px;
+}
+
+/*
+     FILE ARCHIVED ON 08:17:24 Dec 27, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:17:48 Nov 27, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.435
+  exclusion.robots: 0.016
+  exclusion.robots.policy: 0.006
+  esindex: 0.007
+  cdx.remote: 7.796
+  LoadShardBlock: 71.992 (3)
+  PetaboxLoader3.datanode: 134.278 (4)
+  load_resource: 126.784
+  PetaboxLoader3.resolve: 60.306
+*/

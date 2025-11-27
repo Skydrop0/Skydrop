@@ -1,0 +1,136 @@
+.ngg-slideshow.slick-slider {
+    margin: 40px auto 50px !important;
+    overflow: visible;
+}
+
+.ngg-slideshow .ngg-gallery-slideshow-image {
+    display: inline-block;
+    text-align: center;
+    font: 0/0 a;
+}
+
+.ngg-slideshow .ngg-gallery-slideshow-image:before {
+    content: ' ';
+    display: inline-block;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.ngg-slideshow .ngg-gallery-slideshow-image a {
+    display: inline !important;
+}
+
+.ngg-slideshow .ngg-gallery-slideshow-image img {
+    margin: 0 auto;
+    display: inline-block !important;
+    vertical-align: middle;
+    max-width: 99%!important;
+    max-height: 98% !important;
+}
+
+.ngg-slideshow .slick-prev {
+    left: 20px !important;
+    z-index: 10 !important;
+    top: 49%;
+    cursor: before;
+}
+
+.ngg-slideshow .slick-next {
+    right: 30px !important;
+    z-index: 10 !important;
+    top: 49%;
+    cursor: pointer;
+}
+
+.ngg-slideshow .slick-next:before, 
+.ngg-slideshow .slick-prev:before {
+    color: #CCC !important;
+    font-size: 32px !important;
+}
+
+.ngg-slideshow .slick-next:hover:before, 
+.ngg-slideshow .slick-prev:hover:before {
+    color: #AAA !important;
+    font-size: 32px !important;
+}
+
+.ngg-slideshow .slick-dots {
+    margin: 0;
+    padding: 0;
+    bottom: -30px;
+}
+
+.ngg-slideshow .slick-dots li {
+    margin: 0;
+}
+
+.ngg-slideshow .slick-dots li button {
+    margin: 0;
+}
+
+.ngg-slideshow .slick-dots li button:before {
+    font-size: 8px;
+    color: #888;
+    opacity: .5;
+    cursor: pointer;
+}
+
+.ngg-slideshow .slick-dots li.slick-active button:before {
+    opacity: 1;
+    color: #555;
+}
+
+.slideshowlink {
+    margin: -34px auto 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.slideshowlink a {
+    font-size: 13px;
+    letter-spacing: .75px;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: none;
+    border: none;
+}
+
+.slideshowlink a:hover {
+    text-decoration: none !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+@media (max-width: 600px) {
+    .ngg-slideshow .ngg-gallery-slideshow-image {
+        height: 400px !important;
+    }
+}
+
+@media (max-width: 450px) {
+    .ngg-slideshow .ngg-gallery-slideshow-image {
+        height: 300px !important;
+    }
+    
+}
+/*
+     FILE ARCHIVED ON 11:44:31 Jan 21, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:17:51 Nov 27, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.495
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.009
+  esindex: 0.009
+  cdx.remote: 8.663
+  LoadShardBlock: 92.891 (3)
+  PetaboxLoader3.datanode: 151.522 (5)
+  PetaboxLoader3.resolve: 102.274 (2)
+  load_resource: 191.764
+  loaddict: 74.518
+*/
